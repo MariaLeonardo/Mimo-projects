@@ -12,7 +12,7 @@
 ## 🖼️ Preview
 
 ### Screenshot
-![Program Screenshot](./assets/screenshot.png)
+![Program Screenshot](./assets/image.png)
 
 ---
 
