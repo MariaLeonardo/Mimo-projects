@@ -13,6 +13,5 @@
 
 ### Screenshot
 ![Program Screenshot](./assets/image.png)
-![Program Screenshot](./assets/image2.png)
 
 ---
