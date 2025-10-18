@@ -1,4 +1,4 @@
-# 🧩 Unit convertee
+# 🧩 Unit converter
 
 > This program simulates a unit converter for distance units 
 
