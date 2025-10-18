@@ -1,4 +1,4 @@
-# 🧩 Coffee Shop Menu
+# 🧩 Caesar cypher translator
 
 > This code creates a dynamic text cipher.
 
