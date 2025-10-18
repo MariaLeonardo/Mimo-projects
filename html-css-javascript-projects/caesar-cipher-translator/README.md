@@ -1,6 +1,6 @@
 # 🧩 Coffee Shop Menu
 
-> This code creates page for a coffe shop.
+> This code creates a dynamic text cipher.
 
 ---
 
