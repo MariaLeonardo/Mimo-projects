@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Features
+## 🚀 Notable Features
 - Document methods from DOM
   
 ---

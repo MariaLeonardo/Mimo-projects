@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Features
+## 🚀 Notable Features
 - basic HTML and CSS, links and imports
   
 ---

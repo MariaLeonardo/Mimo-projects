@@ -1,11 +1,11 @@
 # 🧩 Typewriter portfolio
 
-> This program implements the logic for a simple multiple-choice quiz.
+> This program implements an HTML page for a sudoku puzzle.
 
 ---
 
 ## 🚀 Notable Features
-- Data arrays, State variables, dynamic display
+- Grid containers
   
 ---
 
