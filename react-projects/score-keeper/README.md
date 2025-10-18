@@ -1,6 +1,6 @@
 # 🧩 Score Keeper
 
-> This this react project implements a program that displays and searches objects in a list. It also shows info on every object by fetching from a database.
+> This this react project implements a score keeper for two teams highliting who is in the lead.
 
 ---
 
