@@ -1,4 +1,4 @@
-# 🧩 Typewriter portfolio
+# 🧩 Sudoku puzzle
 
 > This program implements an HTML page for a sudoku puzzle.
 
