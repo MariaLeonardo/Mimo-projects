@@ -1,6 +1,6 @@
 # 🧩 Star Wars API
 
-> This Python code implements a data fetcher that interact with an API.
+> This Python code implements a data fetcher that interacts with an API.
 ---
 
 ## 🚀 Notable Features
